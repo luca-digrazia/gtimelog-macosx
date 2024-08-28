@@ -35,7 +35,7 @@ Homebrew
 - To install gtk3 and the other needed components call::
 
       brew install gtk+3
-      brew install gobject-introsprection
+      brew install gobject-introspection
       brew install libsoup
       brew install libsecret
 
